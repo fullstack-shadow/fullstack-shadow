@@ -1,2 +1,13 @@
-# fullstack-shadow
-"Tech ninja in dark room coding glowing floating UI panels, AI-integrated mobile apps projected around, black hoodie silhouette, sleek digital shadow aesthetic"
+# 💻 Fullstack Shadow
+
+From UI to vector store — I build AI-native applications with elegance and speed.
+
+## ⚡ Top Projects
+- **WhisperNote** — real-time speech-to-summarized-notes app
+- **LLM Dashboard** — fullstack Langchain + Supabase interface
+- **PromptPad** — AI-integrated code & writing sandbox
+
+---
+
+🌐 Website: https://github.com/fullstack-shadow  
+🕶️ Fast. Silent. Clean builds only.
